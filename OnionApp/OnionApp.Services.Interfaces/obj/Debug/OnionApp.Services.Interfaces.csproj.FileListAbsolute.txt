@@ -10,3 +10,15 @@ C:\Users\Anton\source\repos\OnionApp\OnionApp.Services.Interfaces\obj\Debug\Onio
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.csproj.CopyComplete
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.dll
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\OnionApp.Services.Interfaces.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\OnionApp.Services.Interfaces.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.csproj.CopyComplete
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Services.Interfaces\obj\Debug\OnionApp.Services.Interfaces.pdb

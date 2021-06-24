@@ -12,3 +12,17 @@ C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csproj.CopyComplete
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.dll
 C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Infrastructure.Business.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\bin\Debug\OnionApp.Services.Interfaces.pdb
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csprojAssemblyReference.cache
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.csproj.CopyComplete
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.dll
+C:\Users\Anton\Documents\GitHub\kpi-practice\OnionApp\OnionApp.Infrastructure.Business\obj\Debug\OnionApp.Infrastructure.Business.pdb

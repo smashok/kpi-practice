@@ -1,0 +1,20 @@
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csproj.CopyComplete
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.csproj.CopyComplete
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Domain.Core\obj\Debug\OnionApp.Domain.Core.pdb
