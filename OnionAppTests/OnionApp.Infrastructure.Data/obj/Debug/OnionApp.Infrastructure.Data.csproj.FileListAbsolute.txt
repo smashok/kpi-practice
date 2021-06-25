@@ -1,0 +1,57 @@
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll.config
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.pdb
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.pdb
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Anton\source\repos\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll.config
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.pdb
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Simon_El_Mansoury\Downloads\Архив WinRAR\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.pdb
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll.config
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Infrastructure.Data.pdb
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Core.pdb
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\OnionApp.Domain.Interfaces.pdb
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.dll
+C:\Users\Anton\Desktop\app\OnionApp\OnionApp.Infrastructure.Data\obj\Debug\OnionApp.Infrastructure.Data.pdb
