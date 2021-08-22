@@ -1,0 +1,7 @@
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe.config
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\bin\Debug\Lab1_1.exe
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\bin\Debug\Lab1_1.pdb
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\obj\Debug\Lab1_1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\obj\Debug\Lab1_1.exe
+C:\Users\Андрей\source\repos\Lab1_1\Lab1_1\obj\Debug\Lab1_1.pdb
